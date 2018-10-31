@@ -11,7 +11,7 @@
         },{
           "text": "试题入库",
           "icon": "&#xe621;",
-          "href": "static/table1.html"
+          "href": "static/updatepaper.html"
         },{
           "text": "试题审核",
           "icon": "&#xe621;",
