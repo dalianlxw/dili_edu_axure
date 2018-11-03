@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "text": "试题管理",
+      "icon": "&#xe620;",
+      "subset": [
+        {
+          "text": "我的试题",
+          "icon": "&#xe621;",
+          "href": "static/mypaper.html"
+        },{
+          "text": "试题入库",
+          "icon": "&#xe621;",
+          "href": "static/updatepaper.html"
+        },{
+          "text": "试题审核",
+          "icon": "&#xe621;",
+          "href": "static/table2.html"
+        }
+      ]
+    }    
+  ]
+}
